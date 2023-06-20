@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Kumar.
-- 👀 I’m interested in Data Science and Devops
-- 🌱 I’m currently learning Data Structure and algorithms.
+- 👀 I’m interested in Full stack development.
+- 🌱 I’m currently learning MERN stack development.
 - 📫 you can reach out to me on linkedin.
 
 <!---
