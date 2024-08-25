@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rahul Kumar.
-- 👀 I’m interested in Full stack development.
-- 🌱 I’m currently learning MERN stack development.
+- 👀 I’m Working as Senior System Engineer(ReactJS Developer) at Infosys.
 - 📫 you can reach out to me on linkedin.
 
 <!---
