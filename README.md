@@ -49,8 +49,8 @@
 ## 📫 Contact
 
 - **Email**: rahul319sinha@gmail.com *(replace with actual if needed)*
-- **LinkedIn**: [linkedin.com/in/rahulkumar]
-- **GitHub**: [github.com/RaHuL342319]
+- **LinkedIn**: [https://linkedin.com/in/rahulkumar]
+- **GitHub**: [https://github.com/RaHuL342319]
 - **Meduim**: [https://rahul319sinha.medium.com/]
 
 ---
