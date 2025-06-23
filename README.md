@@ -34,18 +34,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🗂️ **Task App**
-- Built a task management app using **React** and **localStorage**.
-- Implemented features like add/edit/delete tasks with filters.
-
-### 🛒 **Shopping App**
-- Created a product listing app with **React**, **Context API**, and cart functionality.
-- Integrated price filters and search options for dynamic user experience.
-
----
-
 ## 📫 Contact
 
 - **Email**: rahul319sinha@gmail.com *(replace with actual if needed)*
