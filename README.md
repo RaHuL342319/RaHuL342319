@@ -1,7 +1,7 @@
 # 👨‍💻 Rahul Kumar
 
 **Frontend Developer | Senior System Engineer at Infosys**  
-**Experience**: 4+ Years
+**Experience**: 4.9+ Years
 **Location**: India
 
 ---
