@@ -11,6 +11,8 @@
 
 <a href="https://www.linkedin.com/in/rahul-kumar342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rahul319sinha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://medium.com/@rahul319sinha"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://x.com/_rahul_Kumar19"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <img src="https://img.shields.io/badge/Pune%2C%20India-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Open%20to%20Opportunities-22c55e?style=for-the-badge" alt="Open to opportunities" />
 
@@ -36,6 +38,10 @@ const rahul = {
     "Testable, maintainable code",
     "Micro-frontend architecture",
   ],
+
+  architecture: ["Micro Frontends (MFE)", "Design Systems", "Role and Feature-Based Routing"],
+  databases: ["SQL", "NoSQL (basic)", "MongoDB (personal project)"],
+  backendIntegration: ["REST APIs", "Payment gateway integration", "Node.js / Express (personal project)"],
 
   currentlyExploring: ["Generative AI integration", "Prompt engineering", "AI-assisted development"],
 
@@ -67,6 +73,20 @@ I turn complex business requirements into fast, maintainable user interfaces. Ov
 
 <img src="https://skillicons.dev/icons?i=git,github,webpack,babel,npm,eslint&theme=dark" alt="Tooling" />
 
+**Micro Frontends and Architecture**
+
+<img src="https://img.shields.io/badge/Micro%20Frontends%20(MFE)-8A2BE2?style=for-the-badge" alt="Micro Frontends" />
+<img src="https://img.shields.io/badge/Design%20Systems-F24E1E?style=for-the-badge" alt="Design Systems" />
+<img src="https://img.shields.io/badge/Component--Based%20Architecture-61DAFB?style=for-the-badge&logoColor=black" alt="Component-Based Architecture" />
+
+**Backend Integration and Databases**
+
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/NoSQL%20(basic)-47A248?style=for-the-badge" alt="NoSQL (basic)" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express, MongoDB" />&nbsp;<sub><b>Node.js, Express, MongoDB (personal project)</b></sub>
+
 **Mobile**
 
 <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" />&nbsp;<sub><b>React Native</b></sub>
@@ -85,14 +105,15 @@ I turn complex business requirements into fast, maintainable user interfaces. Ov
 | **Performance** | Lazy Loading, Code Splitting, Memoization, Render Optimization |
 | **UI and Styling** | CSS Modules, Tailwind CSS, Bootstrap 5, Responsive Web Design |
 | **Tools and Process** | Git, GitHub, CI/CD, Webpack, Babel, npm, Agile/Scrum |
-| **Databases** | SQL, NoSQL (basic) |
+| **Backend Integration** | REST API integration with backend teams, end-to-end payment gateway integration, Node.js and Express.js (personal project) |
+| **Databases** | SQL, NoSQL (basic), MongoDB (personal project) |
 | **GenAI** | Generative AI Integration, Prompt Engineering, AI-assisted Development |
 
 </details>
 
 ---
 
-## 🚀 What I've Built
+## 🚀 Professional Projects (Infosys)
 
 > Client projects are proprietary, so source code isn't public. Here's what I worked on and the impact.
 
@@ -121,6 +142,34 @@ I turn complex business requirements into fast, maintainable user interfaces. Ov
 
 ---
 
+## 💻 Personal Projects
+
+> Public repositories from my [GitHub](https://github.com/RaHuL342319). The cards below update automatically from GitHub.
+
+<div align="center">
+
+<a href="https://github.com/RaHuL342319/My-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RaHuL342319&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="My-Portfolio" /></a>
+<a href="https://github.com/RaHuL342319/VanLife"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RaHuL342319&repo=VanLife&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="VanLife" /></a>
+<br/>
+<a href="https://github.com/RaHuL342319/Ecommerce-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RaHuL342319&repo=Ecommerce-app&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ecommerce-app" /></a>
+<a href="https://github.com/RaHuL342319/Task-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RaHuL342319&repo=Task-App&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Task-App" /></a>
+<br/>
+<a href="https://github.com/RaHuL342319/Speed-Typing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RaHuL342319&repo=Speed-Typing&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Speed-Typing" /></a>
+<a href="https://github.com/RaHuL342319/myNotes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RaHuL342319&repo=myNotes&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="myNotes" /></a>
+
+</div>
+
+| Project | Stack | Link |
+|---|---|---|
+| **My-Portfolio** | React.js, TypeScript, Vite, Tailwind CSS, Netlify | [Repo](https://github.com/RaHuL342319/My-Portfolio) · [Live demo](https://portfolio-rahul-kumar.netlify.app/) |
+| **VanLife** | React, Vite, JavaScript | [Repo](https://github.com/RaHuL342319/VanLife) |
+| **Ecommerce-app** | JavaScript | [Repo](https://github.com/RaHuL342319/Ecommerce-app) |
+| **Task-App** | JavaScript | [Repo](https://github.com/RaHuL342319/Task-App) |
+| **Speed-Typing** | HTML, CSS, JavaScript | [Repo](https://github.com/RaHuL342319/Speed-Typing) |
+| **myNotes** | Node.js, Express.js, MongoDB (API development) | [Repo](https://github.com/RaHuL342319/myNotes) |
+
+---
+
 ## 📊 By the Numbers
 
 <div align="center">
@@ -130,6 +179,16 @@ I turn complex business requirements into fast, maintainable user interfaces. Ov
 | **3**<br/>Enterprise clients | **100+**<br/>Unit and component tests | **85%+**<br/>Test coverage | **~20%**<br/>Page load reduction | **60+**<br/>Agile sprints | **50+**<br/>Pull requests managed |
 
 </div>
+
+---
+
+## 🧩 Micro Frontend Architecture
+
+I've applied **Micro Frontend (MFE) architecture** to split a customer-facing mobile app into independently deployable feature modules.
+
+- 🔹 Modularized the app so feature teams could build in parallel
+- 🔹 Improved scalability by keeping modules independently deployable
+- 🔹 Paired it with shared reusable components and consistent state design (Redux)
 
 ---
 
@@ -160,6 +219,8 @@ I enjoy working with teams that care about clean code, performance and user expe
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rahul-kumar342"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://medium.com/@rahul319sinha"><img src="https://img.shields.io/badge/Read%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium" /></a>
+<a href="https://x.com/_rahul_Kumar19"><img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
 <a href="mailto:rahul319sinha@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 
 <br/><br/>
